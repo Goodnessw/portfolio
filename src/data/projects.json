@@ -1,0 +1,23 @@
+[
+	{
+		"title": "NonStopNews",
+		"imageSrc": "projects/project (2).png",
+		"description": "Your source for timely updates and insightful analyses, to always keep you informed.",
+		"skills": ["Wordpress, Php"],
+		"demo": "https://nonstopnews.com.ng"
+	},
+	{
+		"title": "Djtconcept",
+		"imageSrc": "projects/project (3).png",
+		"description": "DJT Concept is an Award winning and globally recognized Tech Enterprise.",
+		"skills": ["Html", "Css", "JavaScript"],
+		"demo": "https://djtconcept.ng"
+	},
+	{
+		"title": "Djt Academy",
+		"imageSrc": "projects/project (1).png",
+		"description": "Learn in-demand professional, technical and soft skills on Djt Academy.",
+		"skills": ["Php", "JavaScript"],
+		"demo": "https://djtconcept.ng/Courses"
+	}
+]

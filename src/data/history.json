@@ -1,0 +1,35 @@
+[
+	{
+		"role": "Front End Web Developer",
+		"organisation": "Djtconcept",
+		"startDate": "Sept, 2022",
+		"endDate": "Present",
+		"experiences": [
+			"Redesigned company website.",
+			"Increased user engagement by 30%."
+		],
+		"imageSrc": "history/djtconcept.png"
+	},
+	{
+		"role": "Back End End Web Developer",
+		"organisation": "Djtconcept",
+		"startDate": "Jan, 2023",
+		"endDate": "Present",
+		"experiences": [
+			"Developed a learning management system.",
+			"Integrated an ecommerce platform for courses access."
+		],
+		"imageSrc": "history/djtconcept.jpeg"
+	},
+	{
+		"role": "Wordpress Developer",
+		"organisation": "NonstopNews",
+		"startDate": "June 2024",
+		"endDate": "Present",
+		"experiences": [
+			"Implemented SEO best practices, improving search engine ranking by 50%",
+			"Optimized website perfomance and security"
+		],
+		"imageSrc": "history/nonstopnews.webp"
+	}
+]
